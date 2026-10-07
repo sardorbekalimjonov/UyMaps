@@ -21,63 +21,63 @@
 const RASMLAR = {
   p1: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRATQgG9kTLZV4GJnEt_PQab9GEBbnIbPIo9cb2KNDQ&s",
-    "images/p1_2.svg",
-    "images/p1_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQxZtv01CsC2fJGza2K6I3Un4W044TNDOADzw14ieFA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCJJL5g_udE-60Bu7AHPO0ICqIJsHKFGCYmKQDT4V6Ag&s",
   ], // Kvartira, 1 xona
   p2: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChOE9jxze_otrBG5nThOTlTGp84UIbMUTG_tODy3BPQ&s=10",
-    "images/p2_2.svg",
-    "images/p2_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7P3ovwhYO68xU_LdcP4PPD0Hk92MsuEjO0rSejg4XtQ&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13qErvSvtICzp9PNX7OCDGbsPg77hNxdAJop5Hp7Pwg&s=10",
   ], // Hovli, 5 xona
   p3: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusp0BnKURsB69Yk67snRK2xAKN-UdyjF9ei16fVSajg&s=10",
-    "images/p3_2.svg",
-    "images/p3_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgT0ov3jQmuA39lZxTTLgorujTi1uu8gyjn6_CpMSIXA&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ea82K_BiNtLUCggQ8WIUkNY-O-8SwZcbLUmhRZKHKA&s",
   ], // Villa, 6 xona
   p4: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_JkV07h95asJwr3HiSRQFMg0PXSgvtj1Sanh02BNgA&s=10",
-    "images/p4_2.svg",
-    "images/p4_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv2ROFCElCuWTKUNeZC01w_7UcbdpxZkV_RtyiGjPBQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3wdvGEY14ZTfGBdhnanmEDqY1PFyUHMW3LkUgkOJG7g&s",
   ], // Yangi uy, 4 xona
   p5: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2QxFGAHkSzpYJe9JPR_dVruE1DNHV3k2wcGT-Xw8-g&s",
-    "images/p5_2.svg",
-    "images/p5_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeItekwp3j6kNd2eUOXR9WlU3T_-HaUxT6KsLnbd66PQ&s",
+    "https://frankfurt.apollo.olxcdn.com/v1/files/mh1n3hbqb5y13-UZ/image;s=960x1280",
   ], // Eski uy, 1 xona
   p6: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-o0QfsHolHkRJ9l5CsoSUV5uIev2FkZxcoG3_UHAJQ&s=10",
-    "images/p6_2.svg",
-    "images/p6_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-inlUBmKoPKw3AqvtYFMyhWuQUPnBEmuwf13ujOLVcg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iC8pdBX7vsKodioiqVg0lJdEty2JVNK7Qhg85ja51g&s",
   ], // Kvartira, 2 xona
   p7: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdLGtUuYYKB_4MkRwaqb9EApiOotgFFWgCkM7lwyipA&s=10",
-    "images/p7_2.svg",
-    "images/p7_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9nDfTfT1p1zMSxeOvykHUBQQzyCyHohdaf_KE2tdrw&s",
+    "https://frankfurt.apollo.olxcdn.com/v1/files/hjva4zhobyb32-UZ/image;s=1280x1280",
   ], // Hovli, 4 xona
   p8: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGrxvM6qdBbnygpinVOvIg8_XYbm7nYRz8l5pia-WP9duNJ_7UanWPNn0&s=10",
-    "images/p8_2.svg",
-    "images/p8_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRew8r4FtZwt3jhi7YPE61zbymlIFHbx2pgCIHF-JtZw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WibLYjiJvCjFa5xNmcgRE68jSKmfqVlMjnvhyhuciw&s=10",
   ], // Villa, 5 xona
   p9: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvx5YIfn1o_1Er4mh2Xb4y1sHFSJ2zeRmvWqjSo9E_8g&s=10",
-    "images/p9_2.svg",
-    "images/p9_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvWR-XCRGw__aHx-RNM5pzTzG6uTzPeTRlnBgYEsx8sw&s=10mages/p9_2.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8BcaNjfql-LlD7Z-LsVXolNQlYRxoruPrwks0SKVkdsLdANShPzCgPc&s",
   ], // Yangi uy, 1 xona
   p10: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Lb8uJPUK4sShIorYe6GDPfFYKAIwYqSLeBOVhsirCQ&s",
-    "images/p10_2.svg",
-    "images/p10_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeItekwp3j6kNd2eUOXR9WlU3T_-HaUxT6KsLnbd66PQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aDaD7plgVKFVJaKRhOJHCv5j_P2EowsZ7W7J5uLLlA&s",
   ], // Eski uy, 2 xona
   p11: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVpb1lFYYmnPa80V53mm-0xcYAXhnGzeU1PZ6plhLDEg&s=10",
-    "images/p11_2.svg",
-    "images/p11_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9SxFU47fGrE03TRpeY17Hj3FUjF-cYi00hld_AUT_g&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtw6qdYcp8OE2egsdVRAR7MskRhzGeQbty0bQix4FCXg&s=10",
   ], // Kvartira, 3 xona
   p12: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MMBAbIWe_mbbRBUwnHMNJQjazUoZ7uBnOo7nejeTxQ&s=10",
-    "images/p12_2.svg",
-    "images/p12_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk8T2boH2jeDwf80kjvBdb4x7FSGiH1Z-t8F7uKUdRnQ&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgmBjPA62D4cF371DMfQz-UfYTspa2qJ1vGvx8n-2dA&s=10",
   ], // Hovli, 6 xona
   p13: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylXl3VCZ1Yx-qnUYIi9J8jJhCfpVvEdOVmuXp2yXQnw&s=10",
@@ -86,98 +86,98 @@ const RASMLAR = {
   ], // Villa, 4 xona
   p14: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbzNVtRlI8OULPkNAZuZP7AYmQNY-apoMFdS5eRHx4Q&s",
-    "images/p14_2.svg",
-    "images/p14_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILfItUVIFxcPSkOud9s_Ys0Df2k0nF75ALjqKnwi1TA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYDUB6Hpd2fzZVDlvaUI3jwLahIIvXcAD9aFx_sfRlWw&s",
   ], // Yangi uy, 2 xona
   p15: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05bxajTwrqiewdV24RX6CdsOJuyonWFl1bcWwaHi-eg&s",
-    "images/p15_2.svg",
-    "images/p15_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05bxajTwrqiewdV24RX6CdsOJuyonWFl1bcWwaHi-eg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhoA9unqWlKv09y8TRP7JWhKty-Zm-Va8WIxNE14S7-w&s",
   ], // Eski uy, 3 xona
   p16: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IpFGaHY8igy6dr8curvzydYADxS41LlVFq-R0qiaXQ&s",
-    "images/p16_2.svg",
-    "images/p16_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTCcRjQw6Or4dDvQz9yS9JzehaJaWM_uuRU4JP_5S4w&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZUKxkGjG8S-n-D9ubSJBQO687cuwcVjQhGZ5ET35JLw&s",
   ], // Kvartira, 4 xona
   p17: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6heVJWnLLx1MyllwNcrZcCWHjDC7kofCEuyRVMBqoA&s=10",
-    "images/p17_2.svg",
-    "images/p17_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWUrIN_Cqtdechv6HJFSbYNfbtCWkBx591G55mvbsfBw&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nml1YVAUNW_cfrWGShW6b1lRRx76X-xC875YfwrmQg&s=10",
   ], // Hovli, 5 xona
   p18: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_jA-FG9Z7iHH-fZMcv5G-BYVm14by5tqNiH36uczMw&s=10",
-    "images/p18_2.svg",
-    "images/p18_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIGb1Mpk65_8M4qttb5Vhy60OcbraVW6uHVzaIgxX9A&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGahzDCHHxBtEZpcB6QtL2euDydz3FWPzw-JBdSgE-Qw&s",
   ], // Villa, 6 xona
   p19: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFX2gHWHkFyrEw3fEfYCy7mRibfTZ8qnhcevnuAMb50w&s",
-    "images/p19_2.svg",
-    "images/p19_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYe-3uV3UDnpq_ZQvD2YhhmJ5FQkyWeVdz7QAoVe-9Q&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGj61GpYNPn8xYXEdwTVHHxF75QshScQS11xYKoVwJQ&s",
   ], // Yangi uy, 3 xona
   p20: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZ7Ru8OXrV9MaQPKc51AOS8VniEqD9XJglOAHfn4WOQ&s",
-    "images/p20_2.svg",
-    "images/p20_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7A0rk9TpzNAwglnaJk4gmWCVB1-zePemaQaLpYXWRg&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOho-WNr5PW4AZvCh19s4oqJZgu25GSLo_03TpUfB4Q&s",
   ], // Eski uy, 4 xona
   p21: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMouUYnG9RLYWBe_Z-Eb_nQDb9SoKDbHNBpthvJOftrUJPMFexPS4zUR1q&s=10",
-    "images/p21_2.svg",
-    "images/p21_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTceRl_afbhlBcvkVI5k8vUgUhxYnDmF-GbbTeyWRCgew&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYy3fYFMsAh0WO89OYPqoR3T0leyAF-pdc1RWTqIvFQg&s",
   ], // Kvartira, 1 xona
   p22: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZziAjq190BdPWZAmQvmBPdHgODDOmtMxrA9D4HslYGw&s=10",
-    "images/p22_2.svg",
-    "images/p22_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7FoMONLAIAtx_IVMQuZ9xq7wvrYaUxwk7lPBUngOog&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYFcOG62GEALhJ5h02D76Muft-vedISs5ni4pfXTmmQ&s",
   ], // Hovli, 4 xona
   p23: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRWu9Ckz6h7sbcckhmBVYh6lIDMuRRDxjpAX1tpf-Aw&s=10",
-    "images/p23_2.svg",
-    "images/p23_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiYzf9CxYVpBd7EIWjRWwoTbMg_po1vryGFu4xfYA1vw&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnHdKUu6FjPuS7i-z-wIc8sul1-LxEco9zrM2LLy2JA&s=10",
   ], // Villa, 5 xona
   p24: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnkH2xxF2pIrA92Ha7E6pQoa8GgNGA4Cer-y868Stiw&s=10",
-    "images/p24_2.svg",
-    "images/p24_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcDYUc-DCEiLM1XFk2koopo1OzTtV2mflmK3-3YocMA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAzgzylXZ8blemVbP_w2XxfYQcD0ljVa9ioMARvm_Fw&s",
   ], // Yangi uy, 4 xona
   p25: [
     "https://frankfurt.apollo.olxcdn.com/v1/files/m60p3m94c0331-UZ/image;s=765x1020",
-    "images/p25_2.svg",
-    "images/p25_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSiwk5wCVePIOPfSVeXLHh3vdLab0jlDXYlP8xYfS0g&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSw1Z9gRiweUX_dhh0T8z4p3djvVMdanQn2kHvhSQjzg&s",
   ], // Eski uy, 1 xona
   p26: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn46anintcXqccHmCF89C_r4jbChX4iKrCI3KYgmOR-Q&s",
-    "images/p26_2.svg",
-    "images/p26_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReqyDBOZ5pf5MF4Nf64WaLxSdkx21lDcCApuSGk0eHeA&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDihMYXU0lfht1BThvk-Wn1LAUkSUQKwD-sJ74u1cvg&s=10",
   ], // Kvartira, 2 xona
   p27: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV3FGlYWi_iuyjKvnACUZmX1yH0t20l3hNRDVmzS-Ejw&s=10",
-    "images/p27_2.svg",
-    "images/p27_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDev1HQxNY4cloK1Zf4Q3uxLUHA2M0tEjciYNX6WUm0w&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZetrH9i1bW19t4IIArmG5XvNSsRwPEBPVBf-ntbc6MQ&s=10",
   ], // Hovli, 6 xona
   p28: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrE9yr1bhCeV5ycoDXBOjbmR18OAw9sgfFNx4-9UWAw&s=10",
-    "images/p28_2.svg",
-    "images/p28_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-0k_Mmy1t_g4D50rauUzirogqgizFLwJyst_ASSLag&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9VnUXtForkqCd8Td-nfwQc3e-D7mbZcn2gJs1j1TCg&s=10",
   ], // Villa, 4 xona
   p29: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7RX2Dsm9vaj8osniO8PPAX8Ghp5pqWAVnZf8slXedug&s",
-    "images/p29_2.svg",
-    "images/p29_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtW-0cTxmvqqQ3dyxTZlEQGGSr15bh-SiLMya4dBOmLnDUANf0sqzkpk&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8BcaNjfql-LlD7Z-LsVXolNQlYRxoruPrwks0SKVkdsLdANShPzCgPc&s",
   ], // Yangi uy, 1 xona
   p30: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncJvdzCvf4weFRkFG4QmDCxBBtXWFry932OXOkdTlyA&s",
-    "images/p30_2.svg",
-    "images/p30_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-L6ho8tKmMWvHVjhgdrbkIGwWD3vGFzoGqWbdL17tw&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnycyST2hathAEafmy_QCbF42cX4GIpJ4LU2UIPoo4HA&s",
   ], // Eski uy, 2 xona
   p31: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbE0NEgdh8O2lwQ_ruAtVIwZ6MmR3G_mP6bv3FefC3jQ&s",
-    "images/p31_2.svg",
-    "images/p31_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9SxFU47fGrE03TRpeY17Hj3FUjF-cYi00hld_AUT_g&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttAFFQCBpNoB2_AHP8go9cBPPS90Bfuhn50gw_GajKQ&s",
   ], // Kvartira, 3 xona
   p32: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJtwDDJkZz-hEq4nUJ_R8dQBNEGKTQA6EZeCxFmNd0A&s=10",
-    "images/p32_2.svg",
-    "images/p32_3.svg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzi8NZ5Szlvo4hUFulfgRaplgatNEUixt05PSQZ9MKiQ&s",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWCnLhaiQ2P14Ezs66nV6eEBsufjm14Ujgl-TFSwCdJQ&s",
   ], // Hovli, 5 xona
 };
 const nimg = (p) =>
